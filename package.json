@@ -1,0 +1,12 @@
+{
+  "name": "@pollum-io/pegasys-tokens",
+  "description": "Pegasys Token Registry",
+  "homepage": ".",
+  "license": "MIT",
+  "scripts": {
+    "format": "node format.mjs"
+  },
+  "devDependencies": {
+    "@ethersproject/address": "5.4.0"
+  }
+}

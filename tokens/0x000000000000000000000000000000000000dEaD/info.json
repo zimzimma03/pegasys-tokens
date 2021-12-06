@@ -1,0 +1,25 @@
+{
+    "name": "Dead Token",
+    "type": "ERC20",
+    "symbol": "DEAD",
+    "decimals": 18,
+    "website": "http://pudim.com.br/",
+    "description": "Memelicious testnet token with absolutely no utility.",
+    "explorer": "https://syscan.io/token/0x000000000000000000000000000000000000dEaD",
+    "status": "active",
+    "id": "0x000000000000000000000000000000000000dEaD",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/"
+        },
+        {
+            "name": "coingecko",
+            "url": "https://coingecko.com//"
+        }
+    ]
+}
