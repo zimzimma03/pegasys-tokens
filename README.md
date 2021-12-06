@@ -1,6 +1,6 @@
 # Pegasys Token Asset Registry
 
-This repository is a comprehensive collection of token assets for pooled tokens on the Pegasys DEX.
+This repository is a comprehensive collection of token assets for pooled tokens on the Pegasys DEX provided as an [NPM package](https://www.npmjs.com/package/@pollum-io/pegasys-tokens).
 
 Such a collection can be maintained only through a community effort, so _feel free to add your token!_
 
